@@ -37,3 +37,12 @@ console.log("B ", myArr);
 const myn2 = myArr.splice(1, 3)
 console.log("C ", myArr);
 console.log(myn2);
+
+// Q. diff
+
+// ek me range include hoti hai ek me nahi <---- ye galat anser h
+
+// splice se wo original portion hi nikal jata h array me.
+
+// dhyan rkhe ki konsa operation original array ko manipulate krta or konsa operation nahi
+
